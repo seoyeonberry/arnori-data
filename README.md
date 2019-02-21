@@ -1,6 +1,6 @@
 ## Batch Streak Counter
-
 This is a Python program that populates streak counts for all users
+[Details in here](https://medium.com/@seoyeon/a-batch-counting-algorithm-for-the-longest-and-latest-streaks-for-all-users-a745112cb1b2)
 
 ## Usage
 
